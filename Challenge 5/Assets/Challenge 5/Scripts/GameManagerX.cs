@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Zechariah Burrus
+ * Assignment 8
+ * Game manager, Handles spawning and loss conditions.
+ */
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

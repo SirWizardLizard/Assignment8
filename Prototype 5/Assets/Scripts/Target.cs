@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Zechariah Burrus
+ * Assignment 8
+ * Manages both good and bad targets.
+ */
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Resources;

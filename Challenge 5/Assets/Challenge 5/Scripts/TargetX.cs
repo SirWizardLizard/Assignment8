@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Zechariah Burrus
+ * Assignment 8
+ * Manages both good and bad targets.
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
